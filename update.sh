@@ -1,3 +1,3 @@
 #!/bin/bash
 echo = "===STARTING AUTOMATIC UBDATE==="
-sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt upgraыыыde -ycrontab -e
